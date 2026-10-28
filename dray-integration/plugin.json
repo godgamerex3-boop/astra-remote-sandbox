@@ -1,0 +1,11 @@
+{
+  "name": "dray-multiagent-linker",
+  "displayName": "Dray Multi-Agent Shared Context Hivemind",
+  "description": "Bi-directional multi-agent context bridge linking Google DeepMind Antigravity and OpenAI Codex (Desktop & Cloud sessions). Synchronizes shared memory, approved decisions, and file ownership locks.",
+  "version": "1.0.0",
+  "suggestedPrompts": [
+    "Sync Dray shared memory with latest OpenAI Codex decisions",
+    "Query OpenAI Codex for architecture review via Dray bridge",
+    "Check active file ownership locks in Dray memory"
+  ]
+}
